@@ -5,6 +5,7 @@ This is Nikhil Laxminarayana (Registration ID : 21176215), a freshman at Indian 
 This repository contains detailed and self-contained notebooks for each tasks which have been labelled as follows :<br>
 1. ***samples_frombiv_normal_distri.ipynb*** : A self-explanatory notebook as a solution to **Task 1**
 2. ***samples_frommultiv_normal_distri.ipynb*** : A self-explanatory notebook as a solution to **Task 2**<br>
+3. ***nn_2arch.ipynb*** : A self-explanatory notebook as a solution to **Task 3**
 
 I have used Google Colab environment to formulate my solutions. I thank and present my regards to Dr. Nipun Batra and Zeel Patel from IIT Gandhinagar for such wonderful tasks that were very extensive in their applications and taught me a great deal about machine learning and statistics at large.  I hope I could do justice to the tasks that were presented to me.<br>
 
